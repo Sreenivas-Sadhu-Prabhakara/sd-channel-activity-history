@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-channel-activity-history
+description: "BIAN Service Domain: Channel Activity History (Maintain pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - maintain
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Channel Activity Log"
+  bian/control-record: "Channel Activity Log Maintenance Agreement"
